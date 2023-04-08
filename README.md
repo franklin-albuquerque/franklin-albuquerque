@@ -10,8 +10,8 @@
         </div>
         <div style="display: inline_block">
             <a href="https://github.com/franklin-albuquerque">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franklin-albuquerque&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-albuquerque&layout=compact&theme=github_dark">
+            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franklin-albuquerque&show_icons=true&theme=github_dark&count_private=true&locale=pt-BR">
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-albuquerque&layout=compact&theme=github_dark&locale=pt-BR">
             <h1></h1><br>
             <img alt="Linguagem C" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
             <img alt="Python" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
