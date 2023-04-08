@@ -21,6 +21,7 @@
             <h1></h1><br>
             <a href="https://linkedin.com/in/franklin-albuquerque"><img alt="LinkedIn" height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
             <a href="https://instagram.com/franklin_albuquerque.py"><img alt="Instagram" height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+            <a href="https://discord.com/users/1091040930276053034"><img alt="Discord" height="30" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
             <a href="https://t.me/FranklinAlbuquerque"><img alt="Telegram" height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
             <h1></h1>
         </div>
