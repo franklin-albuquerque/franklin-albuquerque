@@ -9,6 +9,7 @@
             </ul>
         </div>
         <div style="display: inline_block">
+            <a href="https://github.com/franklin-albuquerque">
             <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franklin-albuquerque&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;count_private=true">
             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-albuquerque&amp;layout=compact&amp;theme=github_dark">
             <h1></h1><br>
