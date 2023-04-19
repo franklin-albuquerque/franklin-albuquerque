@@ -1,4 +1,3 @@
-
 <html lang="pt-BR">
     <body>
         <div style="display: inline_block">
@@ -13,14 +12,14 @@
             <br>
             <h3>Estatísticas</h3>
             <picture>
-                <source srcset="https://github-readme-stats.vercel.app/api?username=franklin-albuquerque&show_icons=true&theme=github_dark&count_private=true&locale=pt-BR" media="(prefers-color-scheme: dark)">
-                <source srcset="https://github-readme-stats.vercel.app/api?username=franklin-albuquerque&show_icons=true&theme=default&count_private=true&locale=pt-BR" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-                <img height="185em" src="https://github-readme-stats.vercel.app/api?username=franklin-albuquerque&show_icons=true&count_private=true&locale=pt-BR">
+                <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=franklin-albuquerque&show_icons=true&theme=github_dark&count_private=true&locale=pt-BR" media="(prefers-color-scheme: dark)">
+                <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=franklin-albuquerque&show_icons=true&theme=default&count_private=true&locale=pt-BR" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+                <img height="185em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=franklin-albuquerque&show_icons=true&count_private=true&locale=pt-BR">
             </picture>
             <picture>
-                <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-albuquerque&theme=github_dark&layout=compact&locale=pt-BR" media="(prefers-color-scheme: dark)">
-                <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-albuquerque&theme=default&layout=compact&locale=pt-BR" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-                <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-albuquerque&layout=compact&locale=pt-BR">
+                <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=franklin-albuquerque&theme=github_dark&layout=compact&locale=pt-BR" media="(prefers-color-scheme: dark)">
+                <source srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=franklin-albuquerque&theme=default&layout=compact&locale=pt-BR" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+                <img height="185em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=franklin-albuquerque&layout=compact&locale=pt-BR">
             </picture>
             <br><br>
             <h3>Habilidades</h3>
