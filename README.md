@@ -34,6 +34,13 @@
             <a href="https://instagram.com/franklin_albuquerque.py"><img alt="Instagram" height="33" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
             <a href="https://discord.com/users/1091040930276053034"><img alt="Discord" height="33" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
             <a href="https://t.me/FranklinAlbuquerque"><img alt="Telegram" height="33" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+            <br><br>
+            <h3>Gráfico de contribuições</h3>
+            <picture>
+                <source srcset="https://github-readme-activity-graph.cyclic.app/graph?username=franklin-albuquerque&theme=github-dark" media="(prefers-color-scheme: dark)">
+                <source srcset="https://github-readme-activity-graph.cyclic.app/graph?username=franklin-albuquerque&theme=github-light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+                <img src="https://github-readme-activity-graph.cyclic.app/graph?username=franklin-albuquerque">
+            </picture>
         </div>
     </body>
 </html>
