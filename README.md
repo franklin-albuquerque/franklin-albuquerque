@@ -38,9 +38,9 @@
             <br><br>
             <h3>Gráfico de contribuições</h3>
             <picture>
-                <source srcset="https://github-readme-activity-graph.cyclic.app/graph?username=franklin-albuquerque&theme=github-dark&hide_title=true" media="(prefers-color-scheme: dark)">
-                <source srcset="https://github-readme-activity-graph.cyclic.app/graph?username=franklin-albuquerque&theme=github-light&hide_title=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-                <img src="https://github-readme-activity-graph.cyclic.app/graph?username=franklin-albuquerque">
+              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franklin-albuquerque/grafico-de-contribuicoes/output/github-contribution-grid-snake-dark.svg">
+              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/franklin-albuquerque/grafico-de-contribuicoes/output/github-contribution-grid-snake.svg">
+              <img src="https://raw.githubusercontent.com/franklin-albuquerque/grafico-de-contribuicoes/output/github-contribution-grid-snake.svg">
             </picture>
         </div>
     </body>
