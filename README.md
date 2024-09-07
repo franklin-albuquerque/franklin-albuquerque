@@ -3,8 +3,9 @@
         <div style="display: inline_block">
             <h2>Olá! Seja bem-vindo(a) ao meu perfil! 👋</h2>
             <ul>
-                <li>Atualmente, estou aperfeiçoando meus conhecimentos das linguagens C e Python</li>
-                <li>E, recentemente, comecei a estudar Java e PostgreSQL</li>
+                <li>Atualmente, estou aperfeiçoando meus conhecimentos nas linguagens C e Python</li>
+                <li>Estou estudando PostgreSQL e também aprendendo Java</li>
+                <li>Além disso, meus passatempos incluem fazer Custom ROMs e estudar música</li>
             </ul>
         </div>
         <div style="display: inline_block">
