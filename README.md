@@ -3,7 +3,7 @@
         <div style="display: inline_block">
             <h2>Hi! Welcome to my profile! 👋</h2>
             <ul>
-                <li>I am currently refining my skills in C and Python.</li>
+                <li>I am currently refining my skills in the C language and Python.</li>
                 <li>I am studying PostgreSQL and also learning Java.</li>
                 <li>Additionally, my hobbies include building Custom ROMs and studying music.</li>
             </ul>
