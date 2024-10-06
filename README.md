@@ -5,7 +5,7 @@
             <ul>
                 <li>I am currently refining my skills in C and Python.</li>
                 <li>I am studying PostgreSQL and also learning Java.</li>
-                <li>Additionally, my hobbies include creating Custom ROMs and studying music.</li>
+                <li>Additionally, my hobbies include building Custom ROMs and studying music.</li>
             </ul>
         </div>
         <div style="display: inline_block">
